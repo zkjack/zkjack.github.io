@@ -1,0 +1,98 @@
+---
+layout: post
+title:  "learning"
+categories: jekyll update
+---
+
+
+This is an H1
+=============
+
+This is an H2
+-------------
+
+# 这是 H1#
+
+## 这是 H2 ##
+
+### 这是 H3 ######
+
+#### 这是 H4 ####
+
+##### 这是 H5 #####
+
+###### 这是 H6 ######
+
+
+> ## 这是一个标题。
+> 
+> 1.   这是第一行列表项。
+> 2.   这是第二行列表项。
+> 
+> 给出一些例子代码：
+> 
+>     return shell_exec("echo $input | $markdown_script");
+
+
+1.  This is a list item with two paragraphs. Lorem ipsum dolor
+    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+    mi posuere lectus.
+
+    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+    sit amet velit.
+
+2.  Suspendisse id sem consectetuer libero luctus adipiscing.
+
+
+
+Here is an example of AppleScript:
+
+    tell application "Foo"
+        beep
+    end tell
+
+
+这是一个普通段落：
+
+    这是一个代码区块。
+
+这些
+* * *
+都是
+***
+分隔
+*****
+线路
+- - -
+呦呼
+---------------------------------------
+
+
+This is [an example](http://www.baidu.com/ "Title") inline link.
+
+[This link](http://www.cnu.edu.com/) has no title attribute.
+
+This is [an example] [id] reference-style link.
+[id]: http://example.com/longish/path/to/resource/here
+    "Optional Title Here"
+
+I get 10 times more traffic from [京东][] than from
+[天猫][] or [淘宝][].
+
+  [京东]:  https://www.jd.com/        "jingdong"
+  [天猫]:  https://www.tmall.com/     "tianmao"
+  [淘宝]:  https://www.taobao.com/    "taobao"
+
+*single asterisks*
+
+_single underscores_
+
+**double asterisks**
+
+__double underscores__
+
+un*frigging*believable
+
+
+![Alt text](/_images/timg.jpeg "Optional title")
