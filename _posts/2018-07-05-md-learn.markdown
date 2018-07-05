@@ -73,10 +73,6 @@ This is [an example](http://www.baidu.com/ "Title") inline link.
 
 [This link](http://www.cnu.edu.com/) has no title attribute.
 
-This is [an example] [id] reference-style link.
-[id]: http://example.com/longish/path/to/resource/here
-    "Optional Title Here"
-
 I get 10 times more traffic from [京东][] than from
 [天猫][] or [淘宝][].
 
@@ -95,4 +91,4 @@ __double underscores__
 un*frigging*believable
 
 
-![Alt text](/_images/timg.jpeg "Optional title")
+![wrong ](/Users/zhangkai/Documents/GitHub/zkjack.github.io/_images/timg.jpeg "le")
