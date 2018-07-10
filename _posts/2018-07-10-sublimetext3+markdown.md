@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Sublime Text3 + Markdown"
+categories: jekyll update
+---
 
 Sublime Text3是一款给力的文本编辑器，通过安装插件可以编辑Markdown文本，在编辑Markdown文本的同时可以实时预览编辑效果。
 
