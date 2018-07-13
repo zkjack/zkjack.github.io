@@ -1,4 +1,13 @@
-## Welcome to Jack's GitHub Pages
+---
+layout: post
+title:  "Github Markdown Help"
+categories: jekyll update
+---
+
+![pitc](https://github.com/zkjack/zkjack.github.io/blob/master/_images/timg.jpeg "dabble")
+
+
+![wrong ](/Users/zhangkai/Documents/GitHub/zkjack.github.io/_images/timg.jpeg "le")
 
 You can use the [editor on GitHub](https://github.com/zkjack/zkjack.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
