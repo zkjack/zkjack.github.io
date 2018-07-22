@@ -1,18 +1,16 @@
 ---
 layout: post
-title:  "009-Palindrome Number"
+title:  "009-回文数-Palindrome Number"
 categories: jekyll update
 ---
 
 _______________________________________________________________________________
-
-# 题目 回文数
-### `中文阐述`
+# `中文阐述：`
 判断一个整数是否是回文数。回文数是指正序（从左向右）和倒序（从右向左）读都是一样的整数。
 
 你能不将整数转为字符串来解决这个问题吗？
 
-### `English Expression`
+# `English Expression:`
 Determine whether an integer is a palindrome. An integer is a palindrome when it reads the same backward as forward.
 
 Coud you solve it without converting the integer to a string?

@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "014-最长公共前缀-Longest Common Perfix"
+categories: jekyll update
+---
+
+_______________________________________________________________________________
+
+# `中文阐述：`
+编写一个函数来查找字符串数组中的最长公共前缀。
+
+如果不存在公共前缀，返回空字符串 ""。
+
+# `English Expression:`
+Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string ""
+
+# 方案一：
+
+
+# 方案二：
