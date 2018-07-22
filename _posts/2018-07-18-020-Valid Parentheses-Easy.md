@@ -1,13 +1,11 @@
 ---
 layout: post
-title:  "020-Valid Parentheses"
+title:  "020-效的括号字符-Valid Parentheses"
 categories: jekyll update
 ---
 
 _______________________________________________________________________________
-
-# 题目 有效的括号字符
-### `中文阐述`
+# `中文阐述：`
 给定一个只包括 `'('`，`')'`，`'{'`，`'}'`，`'['`，`']'` 的字符串，判断字符串是否有效。
 
 有效字符串需满足：
@@ -17,7 +15,7 @@ _______________________________________________________________________________
 
 _注意_:空字符串可被认为是有效字符串。
 
-### `English Expression`
+# `English Expression:`
 Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
 An input string is valid if:

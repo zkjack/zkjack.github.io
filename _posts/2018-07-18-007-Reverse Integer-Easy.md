@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  "007-Reverse Integer"
+title:  "007-反转整数-Reverse Integer"
 categories: jekyll update
 ---
 
 _______________________________________________________________________________
-
-# 题目 反转整数
-### `中文阐述`
+# `中文阐述：`
 给定一个 32 位有符号整数，将整数中的数字进行反转。
 
-### `English Expression`
+# `English Expression:`
 Given a 32-bit signed integer, reverse digits of an integer.
 
 # 方案一：
