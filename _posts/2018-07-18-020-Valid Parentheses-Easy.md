@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "020-效的括号字符-Valid Parentheses"
+title:  "020-有效的括号字符"
 categories: jekyll update
 ---
-
 _______________________________________________________________________________
-# `中文阐述：`
+# `题目：`
 给定一个只包括 `'('`，`')'`，`'{'`，`'}'`，`'['`，`']'` 的字符串，判断字符串是否有效。
 
 有效字符串需满足：
@@ -14,16 +13,6 @@ _______________________________________________________________________________
 2. 左括号必须以正确的顺序闭合。
 
 _注意_:空字符串可被认为是有效字符串。
-
-# `English Expression:`
-Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
-
-An input string is valid if:
-
-1. Open brackets must be closed by the same type of brackets.
-2. Open brackets must be closed in the correct order.
-
-_Note that_ an empty string is also considered valid.
 
 # 方案一：
 
